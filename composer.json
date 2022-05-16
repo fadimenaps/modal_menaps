@@ -1,6 +1,6 @@
 {
     "require": {
-        "bucari/modal": "dev-master"
+        "fadimenaps/modal_menaps": "dev-master"
     },
     "repositories": [
         {
