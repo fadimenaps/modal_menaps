@@ -1,6 +1,6 @@
 {
     "require": {
-        "bucari/modal": "main"
+        "bucari/modal": "master"
     },
     "repositories": [
         {
