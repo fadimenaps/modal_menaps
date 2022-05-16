@@ -1,0 +1,11 @@
+{
+    "require": {
+        "bucari/modal": "master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/bucari/modal"
+        }
+    ]
+}
