@@ -1,11 +1,11 @@
 {
     "require": {
-        "bucari/modal": "master"
+        "bucari/modal": "main"
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/bucari/modal"
+            "url": "https://github.com/fadimenaps/modal_menaps"
         }
     ]
 }
